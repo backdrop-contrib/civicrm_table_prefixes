@@ -4,5 +4,6 @@ type = module
 backdrop = 1.x
 package = CiviCRM-Contrib
 configure = admin/config/system/civicrm-table-prefixes
+maintainers[bugfolder] = Robert J. Lang
 
 dependencies[] = civicrm
